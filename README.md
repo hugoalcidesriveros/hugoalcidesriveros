@@ -5,8 +5,8 @@
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-¡Hola! Soy Estudiante de Ingeniería en Electrónica.
-Además de mi enfoque en electrónica, he adquirido conocimientos en HTML, CSS, C, C++, java, javaScript lo que me permite combinar la lógica y precisión de la ingeniería con la creatividad del desarrollo web. Mi objetivo es seguir aprendiendo, colaborar en proyectos desafiantes y contribuir con soluciones innovadoras.
+
+Además de mi enfoque principal en **electrónica**, cuento con conocimientos en **IoT** para desarrollar **soluciones y seguridad**, así como en **HTML, CSS, C, C++, Java y JavaScript**. Esto me permite combinar la **lógica y precisión de la ingeniería** en mi campo de la electrónica con herramientas de desarrollo innovadoras. Mi objetivo es seguir aprendiendo, colaborar en proyectos desafiantes y contribuir con soluciones.
 ## Tecnologias
 Hace click y Conoce mis Codigos 
 
@@ -16,4 +16,5 @@ Hace click y Conoce mis Codigos
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
