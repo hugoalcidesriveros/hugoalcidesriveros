@@ -66,7 +66,7 @@ Mi objetivo es seguir creciendo profesionalmente, participar en proyectos tecnol
 
 ## 🚀 Proyectos destacados
 
-### ♟️ AndesChess — Plataforma de entrenamiento de ajedrez
+### ♟️ AndesChess — Plataforma de entrenamiento de ajedrez 
 
 Aplicación web progresiva (PWA) diseñada para el entrenamiento y estudio del ajedrez.
 
@@ -80,6 +80,8 @@ Aplicación web progresiva (PWA) diseñada para el entrenamiento y estudio del a
 **Tecnologías:** JavaScript, Vite, Firebase, Chess.js, Chessground y Stockfish.
 
 🌐 [Visitar AndesChess](https://www.andeschess.com/)
+- Ecosistema AndesChess
+🌐 [Visitar ArmaTorneos](https://torneo-rey.web.app/)
 
 ---
 
@@ -96,7 +98,7 @@ Sistema web orientado a la administración de competiciones, clubes, jugadores y
 
 **Tecnologías:** TypeScript, React, Vite y Firebase.
 
-🌐 [Visitar LigaFMA](https://www.ligafma.com/)
+🌐 [Visitar LigaFMA](https://www.ligafma.com/) 
 
 ---
 
