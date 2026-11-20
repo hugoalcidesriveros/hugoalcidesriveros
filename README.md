@@ -79,7 +79,7 @@ Aplicación web progresiva (PWA) diseñada para el entrenamiento y estudio del a
 
 **Tecnologías:** JavaScript, Vite, Firebase, Chess.js, Chessground y Stockfish.
 
-🌐 [Visitar AndesChess](https://andeschess.web.app)
+🌐 [Visitar AndesChess](https://www.andeschess.com/)
 
 ---
 
@@ -96,7 +96,7 @@ Sistema web orientado a la administración de competiciones, clubes, jugadores y
 
 **Tecnologías:** TypeScript, React, Vite y Firebase.
 
-🌐 [Visitar LigaFMA](https://ligafma.web.app/)
+🌐 [Visitar LigaFMA](https://www.ligafma.com/)
 
 ---
 
@@ -112,6 +112,8 @@ Proyecto en desarrollo orientado a explorar soluciones de monitoreo ambiental me
 - Detección temprana de posibles focos de incendio.
 
 **Área:** IoT, electrónica y comunicaciones.
+
+🌐 [Visitar AndesChess](https://firewatch-mendoza.web.app/)
 
 ---
 
