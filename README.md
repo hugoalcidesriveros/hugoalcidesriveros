@@ -113,7 +113,7 @@ Proyecto en desarrollo orientado a explorar soluciones de monitoreo ambiental me
 
 **Área:** IoT, electrónica y comunicaciones.
 
-🌐 [Visitar AndesChess](https://firewatch-mendoza.web.app/)
+🌐 [Visitar Firewatch](https://firewatch-mendoza.web.app/)
 
 ---
 
