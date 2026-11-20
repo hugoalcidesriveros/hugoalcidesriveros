@@ -127,18 +127,6 @@ Proyecto de integración entre hardware y software para aplicaciones de control 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hugoalcidesriveros&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hugoalcidesriveros&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Intereses profesionales
 
 - Desarrollo de aplicaciones web.
